@@ -5,6 +5,7 @@ const TOKEN = "token";
 const YOUTUBE_LINKS = [
   "https://youtu.be/FzVR_fymZw4",
   "https://youtu.be/9pdj4iJD08s",
+  "https://youtu.be/2S24-y0Ij3Y"
 ];
 
 const client = new Client();
